@@ -1,0 +1,16 @@
+{
+  "CameraPublisher": {
+    "limelight": {
+      "open": true
+    }
+  },
+  "LiveWindow": {
+    "Ungrouped": {
+      "open": true
+    }
+  },
+  "NetworkTables Settings": {
+    "mode": "Client",
+    "serverTeam": "2200"
+  }
+}

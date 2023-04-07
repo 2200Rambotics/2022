@@ -1,0 +1,10 @@
+{
+  "download": {
+    "localDir": "C:\\Users\\Beep Beep 2200\\Downloads\\log",
+    "remoteDir": "/media/sda1",
+    "serverTeam": "2200"
+  },
+  "output": {
+    "outputFolder": "C:\\Users\\Beep Beep 2200\\Downloads\\log"
+  }
+}
